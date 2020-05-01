@@ -20,5 +20,4 @@ known bugs:
 
 Work in progress...
 
-![Image](1.jpg)
-![Image](2.jpg)
+FORK on the origianl - this was assembled on a ESP32 and the screen was a TFT2.8 240x320.  
