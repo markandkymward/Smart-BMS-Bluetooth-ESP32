@@ -17,6 +17,6 @@ known bugs:
 
 Work in progress...
 
-FORK on the original - this was assembled on a ESP32 and the screen was a TFT2.8 240x320. GUI written
+FORK on the original - this was assembled on a ESP32 and the screen was a TFT2.8 240x320. GUI written.  It displays individual cell millVolts off pack average.  Credit JANPOM for the idea and assistance https://davega.eu/
 
 
