@@ -3,9 +3,6 @@ Program to read out and display data from xiaoxiang Smart BMS over Bluetooth Low
 https://www.lithiumbatterypcb.com/  
 Tested with original BLE module provided. Might work with generic BLE module when UUIDs are modified  
 
-Needs ESP32 and graphic display.  
-Tested on TTGO TS https://github.com/LilyGO/TTGO-TS  
-
 (c) Miroslav Kolinsky 2019  https://www.kolins.cz  
 
 thanks to Petr Jenik for big parts of code  
@@ -20,6 +17,6 @@ known bugs:
 
 Work in progress...
 
-FORK on the original - this was assembled on a ESP32 and the screen was a TFT2.8 240x320. 
+FORK on the original - this was assembled on a ESP32 and the screen was a TFT2.8 240x320. GUI written
 
 
