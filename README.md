@@ -20,4 +20,6 @@ known bugs:
 
 Work in progress...
 
-FORK on the origianl - this was assembled on a ESP32 and the screen was a TFT2.8 240x320.  
+FORK on the original - this was assembled on a ESP32 and the screen was a TFT2.8 240x320. 
+
+
